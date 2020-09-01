@@ -6,7 +6,7 @@ class Dog
     @this_dog_name
   end
   
-  def this_dog_name
+  def bark
     puts "woof!"
   end
   
